@@ -1,0 +1,30 @@
+{
+    "user": [
+        {
+            "name": "Rick Astley",
+            "location": "Bengaluru",
+            "likes": 69,
+            "description": "Kick start your career",
+            "PostImage": "4.png",
+            "date": "12/02/2022"
+        },
+        {
+            "name": "Patrick Bateman",
+            "location": "Pune",
+            "likes": 30,
+            "description": "Bruh moment.exe",
+            "PostImage": "2.jpg",
+            "date": "15/05/2022"
+        },
+        {
+            "name": "Rambo",
+            "location": "Hyderabad",
+            "likes": 30,
+            "description": "Blinding Lights",
+            "PostImage": "3.jpeg",
+            "date": "10/06/2022"
+        }
+
+    ]
+}
+
