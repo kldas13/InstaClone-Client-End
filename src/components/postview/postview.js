@@ -23,7 +23,7 @@ export default function Postview() {
   // }, []);
 
   useEffect(() => {
-    fetch("http://localhost:8000/" , {method:"GET"})
+    fetch("https://instaclone-server-kldas.onrender.com" , {method:"GET"})
       .then((res) => res.json())
       .then((data) => {
         setPosts(data);
